@@ -1,0 +1,23 @@
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.feature-img{
+  height: 200px;
+}
+
+.footer-bottom{
+  padding: 10px;
+  margin-top: 20px;
+  background: gray;
+}
+
+.child-rows {
+    padding-left: 20px;
+    border-left: 1px solid #dfdfdf;
+    background: #FFF;
+}
+.child-rows a.list-group-item{
+  border-left: 0px!important;
+  background: #3490dc;
+}
